@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	symlinks = false
+	ignorecase = true
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/ashwinitaware17/customerService.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
